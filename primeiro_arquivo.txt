@@ -1,0 +1,9 @@
+O git é um sistema de controle de versão 
+Usado principalmente no desenvolvimento de software
+Mas pode ser usado para registrar históric de edições de qualquer tipo de arquivo
+Pincipais funções são: Permitir que desenvolvedores trabalhem simultaneamen, não permite substitu as alterações do outro, mantém histótico de todas as vers 
+o Git tem 3 estados: Commited, Modified, Staged.
+Que para manter a consistencia se divide em 3 seções , Repositório, Diretório, E área de preparação.
+O fluxo de trabalho Git funciona da seguinte maneira
+Os arquivos são modificados no diretório,o usuario seleciona os arquivos que pretende consolidar no repositório e lhes envia para a area de preparação, e por fim executa um commited o qual envia arquivos presentes na area de preparação para o repositório.
+Os principais comando do git são git add, git status, git commited , git config, git push , git brunch. 
